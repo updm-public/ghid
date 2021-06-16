@@ -303,6 +303,8 @@ H.5. Pentru asigurarea imparțialitații este interzisă susținerea  sau combat
 
 H.6. Orice moderator inactiv pentru 30 de zile calendaristice este automat considerat ca demisionat și i se va șterge rolul de moderator îi va fi înlăturat. Toate activitățile tehnice ce derivă din această acțiune vor fi preluate de oricare dintre ceilalți moderatori. O singură întrerupere a activității în termen de maximum 30 de zile va fi permisă, scrisă și trimisă de moderator către moderare.usr.diaspora.membri@gmail.com, fiind acceptată o singură dată în ultimele 182 de zile.
 
+H.6.1. Un moderator este considerat inactiv dacă nu are nici o intervenție pe grup (în sensul moderării de conținut), respectiv, dacă nu participă la decizii și alte activități specifice în cadrul echipei de moderatori.
+
 H.7. Odată implicat un moderator în procesul de mediere, este recomandat ca moderarea să fie dusă la bun sfârșit de același moderator. 
 
 H.8. Moderatorul are obligația ca, înainte să decidă aplicarea sancțiunii să verifice într-un mediu de stocare extern grupului, dacă fapta a fost deja sancționată.
