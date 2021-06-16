@@ -1,25 +1,3 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.117 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Tue Jun 15 2021 21:23:32 GMT-0700 (PDT)
-* Source doc: Copy of USR PLUS Diaspora. Membri - Ghid
-* Tables are currently converted to HTML tables.
------>
-
-
 USR Diaspora. Membri - Ghid de funcţionare
 
 **PARTEA I**
@@ -98,35 +76,29 @@ B.6.1. Conținut obscen, profan sau cu caracter sexual;
 
 B.6.2. Imagini, texte cu abuzuri sexuale asupra copiilor;
 
-
-    B.6.3. Imaginea cu minori în care fața este identificabilă fără acordul părinților acestora;
+B.6.3. Imaginea cu minori în care fața este identificabilă fără acordul părinților acestora;
 
 B.6.4. Conținut care instigă la ură;
 
-
-    B.6.5. Conținut cu caracter amenințător sau care incită la violență fizică sau emoțională asupra propriei persoane ori asupra altora;
+B.6.5. Conținut cu caracter amenințător sau care incită la violență fizică sau emoțională asupra propriei persoane ori asupra altora;
 
 B.6.6. Conținut care hărțuiește, intimidează sau agresează o persoană sau un grup;
 
-
-    B.6.7. Conținut violent, imagini înspăimântătoare sau dezgustătoare ori imagini sau descrieri grafice ale unor traume fizice;
+B.6.7. Conținut violent, imagini înspăimântătoare sau dezgustătoare ori imagini sau descrieri grafice ale unor traume fizice;
 
 B.6.8. Conținut prin care se dorește exploatarea altora;
 
 B.6.9. Conținut care promovează actele de cruzime sau de violență față de animale;
 
+B.6.10. Conținut ce menționează însemne, simboluri, cuvinte și expresii naziste, fasciste sau comuniste;
 
-    B.6.10. Conținut ce menționează însemne, simboluri, cuvinte și expresii naziste, fasciste sau comuniste;
-
-
-    B.6.11. Conținut ce neagă holocaustului, holdomorul, genocidul armean, sau folosirea lui în alt context, diferit de cel adevărat.
+B.6.11. Conținut ce neagă holocaustului, holdomorul, genocidul armean, sau folosirea lui în alt context, diferit de cel adevărat.
 
 B.6.12. Orice formă de atac la persoană sau insultă.
 
 B.6.13. Orice formă de atac la demnitatea persoanei.
 
-
-    B.6.14. Conținut cu caracter personal, prin care acea persoană poate fi identificată în mod unic.
+B.6.14. Conținut cu caracter personal, prin care acea persoană poate fi identificată în mod unic.
 
 B.6.15. Orice referință la caracteristicile fizice într-un context negativ.
 
@@ -160,18 +132,15 @@ C.2. Cazierul sancțiunilor va avea un caracter temporar de 90 zile.
 
 C.3. Sancțiunile  vor fi aplicate urmând ordinea:	
 
-
-    C.3.1 Prima abatere va fi sancționată cu mute (imposibilitatea de a adăuga conținut) pentru 1 zi
+C.3.1 Prima abatere va fi sancționată cu mute (imposibilitatea de a adăuga conținut) pentru 1 zi
 
 C.3.2. A doua abatere va fi sancționată cu mute pentru 3 zile.
 
 C.3.3. A treia abatere va fi sancționată cu mute pentru 7 zile.
 
+C.3.4. La a patra abatere membrul grupului va intra în regim de preaprobare pentru o lună. Înainte de a fi publicată pe grup, postarea va fi analizata dacă încalcă regulamentul de către un moderator. Dacă în acest interval de timp regulamentul este încălcat de către membru prin postare de conținut, perioada de preaprobare se reseteaza. 
 
-    C.3.4. La a patra abatere membrul grupului va intra în regim de preaprobare pentru o lună. Înainte de a fi publicată pe grup, postarea va fi analizata dacă încalcă regulamentul de către un moderator. Dacă în acest interval de timp regulamentul este încălcat de către membru prin postare de conținut, perioada de preaprobare se reseteaza. 
-
-
-    C.3.5.diaspora La a cincea abatere, Consiliul Moderatorilor scrie un raport cu toate sancțiunile aplicate până în momentul acela și trimite Biroului Filialei USR Diaspora o sesizare, conform statutului pe numele persoanei sancționate.
+C.3.5. La a cincea abatere, Consiliul Moderatorilor scrie un raport cu toate sancțiunile aplicate până în momentul acela și trimite Biroului Filialei USR Diaspora o sesizare, conform statutului pe numele persoanei sancționate.
 
 C.4. Comentariile unui post pot fi închise de cel puțin doi moderatori în baza încadrării faptei la articolele secțiunii B. 
 
@@ -183,14 +152,10 @@ D.1. Atunci când răspundeți la o postare/comentariu, comentariul propriu treb
 
 D.2. Sunt considerate atacuri la persoană:
 
-
-
 1. Utilizarea la adresa colegilor a cuvintelor sau expresiilor jignitoare precum: prost, specimen, viclean, sinistru, boss, postac, nesimțit, golan, hoț, idiot, laș, papagal, lătrău, mahala, lacheu, ești o rușine, mediocru, meschin, incapabil, jalnic, mincinos **etc. **
 2. Acuzațiile la adresa unui membru, fără dovezi.
 
 D.3. Sunt considerate jigniri colective:
-
-
 
 1. Cuvintele sau expresiile jignitoare precum: retarzi, proști, spălați pe creier, propagandiști, cloacă politică, trădători, lingăi, infiltrați etc., utilizate pentru a-i încadra pe colegii care nu au aceleași opțiuni politice în legătură cu un subiect sau altul;
 2. Susținerea unor scenarii conspirative care vizează grupuri, fără a prezenta dovezi.
@@ -198,8 +163,6 @@ D.3. Sunt considerate jigniri colective:
 D.4. Cuvintele și expresiile obscene sunt sancționate chiar dacă nu se referă la un coleg sau grup anume.
 
 D.5. Nu sunt considerate atacuri:
-
-
 
 1. Ironiile care nu conțin jigniri
 2. Metaforele cu referințe din cultura internetului, istorie, muzica etc. 
@@ -374,13 +337,9 @@ I.2. Consiliul se poate întruni dacă cel puțin ⅔ dintre moderatori și/sau 
 
 I.3. Consiliul moderatorilor va evalua activitatea tuturor moderatorilor.
 
-	
+I.3.1.diaspora În cazul în care moderatorul aplică greșit sancțiuni, rolul acestuia se oprește automat și poate aplica din nou după o perioada de 1 an, dar numai după a cincea abatere.
 
-
-    I.3.1.diaspora În cazul în care moderatorul aplică greșit sancțiuni, rolul acestuia se oprește automat și poate aplica din nou după o perioada de 1 an, dar numai după a cincea abatere.
-
-
-    I.3.2.diaspora În cazul în care moderatorul aplică în mod intenționat și abuziv sancțiuni, fără să medieze, fără să comunice, fără să motiveze, fără să justifice, sau orice alt abuz stabilit de Consiliului Moderatorilor, rolul acestuia se oprește automat și poate aplica din nou după o perioada de 1 an.
+I.3.2.diaspora În cazul în care moderatorul aplică în mod intenționat și abuziv sancțiuni, fără să medieze, fără să comunice, fără să motiveze, fără să justifice, sau orice alt abuz stabilit de Consiliului Moderatorilor, rolul acestuia se oprește automat și poate aplica din nou după o perioada de 1 an.
 
 I.4. Vor fi luate decizii legate de modificarea acestui regulament. Intrarea în vigoare a deciziilor de modificare se va face după aprobarea administratorului grupului. 
 
@@ -394,8 +353,7 @@ I.6.2. Documentele de interes general sunt adăugate postului.
 
 I.6.3. Valoarea documentului este evidentă pentru grup și USR.
 
-
-    I.6.4. Atâta timp cât se poate dovedi activitatea legată de acel post, va rămâne în fruntea listei dar nu mai mult de 14 zile consecutive.
+I.6.4. Atâta timp cât se poate dovedi activitatea legată de acel post, va rămâne în fruntea listei dar nu mai mult de 14 zile consecutive.
 
 I.7. Se va analiza și decide asupra activității specifice a grupului.
 
@@ -423,30 +381,23 @@ J.3. Toți moderatorii sunt obligați, prin rotație, să participe la procesul 
 
 J.4. Pentru a deveni moderator, procesul de verificare, interviu și votare va fi complet transparent pentru toți membrii grupului. Procesul constă în:
 
+J.4.1. Verificarea ce va fi făcută de minim doi moderatori desemnați de consiliul moderatorilor;
 
-    J.4.1. Verificarea ce va fi făcută de minim doi moderatori desemnați de consiliul moderatorilor;
+J.4.2. Verificare sancțiunilor administrate candidatului în grup în ultimele 6 luni precedente demarării procesului. În cazul în care calitatea de membru a fost dobândită mai recent decat 6 luni, se va lua în considerare doar intervalul disponibil.
 
+J.4.3. Verificarea experienței reale ca moderator într-un grup. Candidatul va pune la dispoziția celor care vor face verificarea toate informațiile ce pot să confirme cele afirmate.
 
-    J.4.2. Verificare sancțiunilor administrate candidatului în grup în ultimele 6 luni precedente demarării procesului. În cazul în care calitatea de membru a fost dobândită mai recent decat 6 luni, se va lua în considerare doar intervalul disponibil.
-
-
-    J.4.3. Verificarea experienței reale ca moderator într-un grup. Candidatul va pune la dispoziția celor care vor face verificarea toate informațiile ce pot să confirme cele afirmate.
-
-
-    J.4.4. Candidații vor primi punctaj de la 1 la 10 din partea fiecărui moderator, în care cel mai bun candidat va primi 10 iar cel mai slab 1. Rezultatul va consta din media aritmetică a punctajelor date de moderatorii prezenți.
+J.4.4. Candidații vor primi punctaj de la 1 la 10 din partea fiecărui moderator, în care cel mai bun candidat va primi 10 iar cel mai slab 1. Rezultatul va consta din media aritmetică a punctajelor date de moderatorii prezenți.
 
 J.4.5. Odată rezultatele centralizate, vor fi publicate în grup.
 
-
-    J.4.6. Contestația poate fi depusă de candidat în termen de 3 zile calendaristice la de la publicarea rezultatelor pe grup la moderare.usr.diaspora.membri@gmail.com și va fi verificată la îndeplinirea termenului, de minimum 2 moderatori.
+J.4.6. Contestația poate fi depusă de candidat în termen de 3 zile calendaristice la de la publicarea rezultatelor pe grup la moderare.usr.diaspora.membri@gmail.com și va fi verificată la îndeplinirea termenului, de minimum 2 moderatori.
 
 J.4.7. Procedura de verificare se va aplica și pentru soluționarea contestației.
 
+J.4.8. Rezultatul contestației va consta din media aritmetică a punctajelor date de moderatorii prezenți. Rezultatul contestației va fi publicat în grup imediat.
 
-    J.4.8. Rezultatul contestației va consta din media aritmetică a punctajelor date de moderatorii prezenți. Rezultatul contestației va fi publicat în grup imediat.
-
-
-    J.4.9. Interviul va fi susținut de minim doi moderatori desemnați de consiliul moderatorilor, după ce datele procesului de verificare au fost publicate în grup și eventualele contestații au fost soluționate și  se va testa:
+J.4.9. Interviul va fi susținut de minim doi moderatori desemnați de consiliul moderatorilor, după ce datele procesului de verificare au fost publicate în grup și eventualele contestații au fost soluționate și  se va testa:
 
 J.4.10. Abilitatea candidatului de a înțelege conflictul si medierea lui;
 
@@ -456,8 +407,7 @@ J.4.12. Înțelegerea rolului acestui grup;
 
 J.4.13. Testarea practică folosind exemple concrete din activitatea grupului.
 
-
-    J.4.14. Candidații vor primi punctaj de la 1 la 10 din partea fiecărui moderator, în care cel mai bun candidat va primi 10 iar cel mai slab 1. Rezultatul va consta din media aritmetică a punctajelor date de moderatorii prezenți.
+J.4.14. Candidații vor primi punctaj de la 1 la 10 din partea fiecărui moderator, în care cel mai bun candidat va primi 10 iar cel mai slab 1. Rezultatul va consta din media aritmetică a punctajelor date de moderatorii prezenți.
 
 J.4.15. Odată rezultatele centralizate, vor fi publicate imediat în grup.
 
@@ -465,15 +415,13 @@ J.4.16. Votarea va fi demarată odată ce rezultatele interviurilor au fost publ
 
 J.4.17. Candidații vor fi votați public în grup de membri timp de 3 zile calendaristice.
 
-
-    J.4.18. La încheierea procesului de votare, candidații vor primi punctaj în baza formulei:
+J.4.18. La încheierea procesului de votare, candidații vor primi punctaj în baza formulei:
 
 	1Candidat  = 10; // Candidat cu cele mai multe voturi are nota 10
 
 	2Candidat = (10 x 2CandidatNrVoturi)  /  1CandidatNrVoturi; // Regula de trei simplă.
 
-
-    J.4.19. După încheierea procesului de votare, punctajul final va fi calculat prin adunarea dintre cele 3 punctaje obținute pentru verificare, interviu și votare. Rezultatele finale vor fi publicate, iar candidatul va prelua imediat rolul de moderator.
+J.4.19. După încheierea procesului de votare, punctajul final va fi calculat prin adunarea dintre cele 3 punctaje obținute pentru verificare, interviu și votare. Rezultatele finale vor fi publicate, iar candidatul va prelua imediat rolul de moderator.
 
 K.diaspora Procesul de selecție simplificat
 
