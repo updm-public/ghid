@@ -146,6 +146,16 @@ C.4. Comentariile unui post pot fi închise de cel puțin doi moderatori în baz
 
 C.5. Conținutul poate fi șters cu acordul a cel puțin doi  moderatori sau administratori doar în cazul când postarea încalcă în mod clar acest regulament. Se va sancționa conform cazierului sancțiunilor.
 
+C.6. În scop preventiv, pentru derapajele de comunicare suficient de ușoare cât să nu necesite intervenție/sancționare, moderatorii de conținut pot dispune avertismente.
+
+C.6.1. Registrul de avertismente are un caracter temporar, de 60 de zile.
+
+C.6.2. Avertismentul este comunicat, intră în vigoare și este înregistrat conform prevederilor punctelor H.11-H.12. Similar, avertismentul poate fi contestat de către membrul care l-a primit, conform prevederilor punctelor H.13-H.17.
+
+C.6.3. La înregistrarea unui avertisment, moderatorul de conținut are obligația de a adăuga într-un mediu de stocare extern grupului toate informațiile pertinente acelui avertisment (membrul vizat, data aplicării, încadrarea într-unul dintre punctele din capitolul B). Un avertisment este reprezentat în cadrul registrului sub forma de punct de avertizare.
+
+C.6.4. La acumularea a 4 puncte (indiferent de încadrările lor), moderatorul va dispune sancționarea membrului avertizat, conform încadrării specifice ultimului avertisment emis. Sancționarea va fi conformă cu datele disponibile în registrul de sancțiuni ale membrului respectiv. Cele 4 puncte vor fi totodată marcate ca anulate, pentru a nu putea fi folosite în sensul unei sancțiuni ulterioare (evitând astfel încălcarea prevederilor punctului H.9).
+
 D. Precizări
 
 D.1. Atunci când răspundeți la o postare/comentariu, comentariul propriu trebuie sa vizeze postarea/comentariul la care răspundeți, nu persoana care a făcut postarea/comentariul.
