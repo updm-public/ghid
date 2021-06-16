@@ -128,7 +128,7 @@ C. Sancțiuni
 
 C.1. Sancțiunile sunt aplicate de către moderatori.
 
-C.2. Cazierul sancțiunilor va avea un caracter temporar de 90 zile.
+C.2. Registrul sancțiunilor va avea un caracter temporar de 90 zile.
 
 C.3. Sancțiunile  vor fi aplicate urmând ordinea:	
 
@@ -144,7 +144,7 @@ C.3.5. La a cincea abatere, Consiliul Moderatorilor scrie un raport cu toate san
 
 C.4. Comentariile unui post pot fi închise de cel puțin doi moderatori în baza încadrării faptei la articolele secțiunii B. 
 
-C.5. Conținutul poate fi șters cu acordul a cel puțin doi  moderatori sau administratori doar în cazul când postarea încalcă în mod clar acest regulament. Se va sancționa conform cazierului sancțiunilor.
+C.5. Conținutul poate fi șters cu acordul a cel puțin doi  moderatori sau administratori doar în cazul când postarea încalcă în mod clar acest regulament. Se va sancționa conform registrului sancțiunilor.
 
 D. Precizări
 
